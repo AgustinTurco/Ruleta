@@ -1,0 +1,8 @@
+var selectedField = new Array(48);
+
+0-36 = Numeros 0 a 36
+37-39 = 2 a 1 de arriba a abajo
+40-42 = 1ra, 2da y 3ra docena respectivamente
+43-44 = 1-18 y PAR
+45-46 = ROJO y NEGRO
+47-48 IMPAR y 19-36
